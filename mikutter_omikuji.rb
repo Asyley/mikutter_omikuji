@@ -13,3 +13,4 @@ Plugin.create :mikutter_omikuji do
     end
   end
 end
+
